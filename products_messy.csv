@@ -1,0 +1,22 @@
+product_id,product_name,product_category,manufacturing_city,size,color,SKU,unit_cost,list_price,supplier_rating,warranty_months,stock_status
+79641,  AeroFlex Running Shoes ,Footwear,Ahmedabad,10,Red,161128001,3689.41,5363.01,,3.0,Backorder
+74568,UrbanTrail Backpack,accessory,Hyderabad,, BLACK ,591912552,1187.44,1900.16,4.5,24.0,In Stock
+28129,PulseFit Smartwatch,wearable,Kolkata,One Size,Red,168708867,2989.57,6269.52,3.4,12.0,Low Stock
+97797,  CoreGrip Yoga Mat ,Fitness Equipment,Chennai,Large, TEAL ,493436726,1122.4,13405.68,4.4,6.0,Backorder
+85575,CloudSoft Hoodie,Apparel,Jaipur,XXL,,908278862,2197.04,3516.68,3.4,3.0,OUT OF STOCK
+78497,StridePro Joggers,apparel,,XL, OLIVE ,524410429,474.81,725.77,4.0,12.0,in stock
+21529,HydraSteel Bottle,Accessories,Mumbai,One Size,White,495652216,-250.0,-999.0,4.2,12.0,Backorder
+18030,  MotionFit Leggings ,Apparel,Chennai,L,White,815421353,1254.04,2921.51,3.9,3.0,In Stock
+68899,PowerMax Resistance Bands,fitness equipment,,Large,Black,152472467,1239.18,2456.67,3.7,,In Stock
+56188,Everyday Training Tee,Apparel ,Chennai,XXL,Beige,468267797,2287.29,3443.64,3.5,0.0,Low Stock
+48964,ProLift Training Gloves,Accessories,Noida,One Size,Maroon, 727093712,360.72,770.14,4.1,0.0,Low Stock
+17733,ActiveFlow Sports Bra,Apparel,hyderabad,M,White,314889638,,3137.12,3.8,0.0,In Stock
+50534,  Endurance Shorts ,Apparel,Delhi,XXL,Red,917722620,701.1,1113.02,3.7,24.0,In Stock
+87260,  FlexMove Windbreaker ,apparel,Noida,XL,Blue,345017405,1440.63,3209.12,6.8,12.0,Backorder
+18474,SprintLite Cap,accessories,Mumbai,One Size,Olive,621297611,670.7,1417.87,4.7,12.0,Low Stock
+76211,RecoverEase Foam Roller,Fitness Equipment,noida,Standard,Beige,UNKNOWN,1573.05,2558.0,,6.0,Backorder
+80741,TrailBlaze Socks,Accessories,Pune,One Size,Navy,396875090,918.36,1981.97,3.4,12.0,Backorder
+49491,FitTrack Gym Bag,accessories,Bengaluru,One Size,,62295-5024,1716.49,"1,999",4.2,0.0,In Stock
+72754,ThermoRun Jacket,apparel,kolkata,M,Olive,158460909,1351.64,2388.06,4.0,24.0,Low stock 
+57377,BalancePro Training Shoes,Foot Wear,Chennai,8, OLIVE ,340278096,2330.93,4487.12,4.1,6.0,In Stock
+97797,  CoreGrip Yoga Mat ,Fitness Equipment,Chennai,Large, TEAL ,493436726,1122.4,13405.68,4.4,6.0,Backorder
