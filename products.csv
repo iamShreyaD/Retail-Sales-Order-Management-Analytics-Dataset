@@ -1,0 +1,21 @@
+product_id,product_name,product_category,manufacturing_city,size,color,SKU,unit_cost,list_price,supplier_rating,warranty_months,stock_status
+79641,AeroFlex Running Shoes,Footwear,Ahmedabad,10,Red,161128001,3689.41,5363.01,4.5,3,Backorder
+74568,UrbanTrail Backpack,Accessories,Hyderabad,One Size,Black,591912552,1187.44,1900.16,4.5,24,In Stock
+28129,PulseFit Smartwatch,Wearables,Kolkata,One Size,Red,168708867,2989.57,6269.52,3.4,12,Low Stock
+97797,CoreGrip Yoga Mat,Fitness Equipment,Chennai,Large,Teal,493436726,1122.4,1675.71,4.4,6,Backorder
+85575,CloudSoft Hoodie,Apparel,Jaipur,XXL,Red,908278862,2197.04,3516.68,3.4,3,In Stock
+78497,StridePro Joggers,Apparel,Noida,XL,Olive,524410429,474.81,725.77,4.0,12,Backorder
+21529,HydraSteel Bottle,Accessories,Mumbai,One Size,White,495652216,516.08,919.39,4.2,12,Backorder
+18030,MotionFit Leggings,Apparel,Chennai,L,White,815421353,1254.04,2921.51,3.9,3,In Stock
+68899,PowerMax Resistance Bands,Fitness Equipment,Kolkata,Large,Black,152472467,1239.18,2456.67,3.7,12,In Stock
+56188,Everyday Training Tee,Apparel,Chennai,XXL,Beige,468267797,2287.29,3443.64,3.5,0,Low Stock
+48964,ProLift Training Gloves,Accessories,Noida,One Size,Maroon,727093712,360.72,770.14,4.1,0,Low Stock
+17733,ActiveFlow Sports Bra,Apparel,Hyderabad,M,White,314889638,1910.77,3137.12,3.8,0,In Stock
+50534,Endurance Shorts,Apparel,Delhi,XXL,Red,917722620,701.1,1113.02,3.7,24,In Stock
+87260,FlexMove Windbreaker,Apparel,Noida,XL,Blue,345017405,1440.63,3209.12,4.7,12,Backorder
+18474,SprintLite Cap,Accessories,Mumbai,One Size,Olive,621297611,670.7,1417.87,4.7,12,Low Stock
+76211,RecoverEase Foam Roller,Fitness Equipment,Noida,Standard,Beige,625688171,1573.05,2558.0,3.3,6,Backorder
+80741,TrailBlaze Socks,Accessories,Pune,One Size,Navy,396875090,918.36,1981.97,3.4,12,Backorder
+49491,FitTrack Gym Bag,Accessories,Bengaluru,One Size,Teal,622955024,1716.49,3275.36,4.2,0,In Stock
+72754,ThermoRun Jacket,Apparel,Kolkata,M,Olive,158460909,1351.64,2388.06,4.0,24,In Stock
+57377,BalancePro Training Shoes,Footwear,Chennai,8,Olive,340278096,2330.93,4487.12,4.1,6,In Stock
